@@ -15,12 +15,18 @@ Desarrollada con **HTML, CSS y JavaScript**, está diseñada para practicar **l�
 
 ---
 
-## ¡Cómo debería verse?
+## 👀¡Cómo debería verse?
+
 <img width="1018" height="816" alt="image" src="https://github.com/user-attachments/assets/b7b637e0-c989-4d42-8120-093b99ee1487" />
 <img width="1051" height="864" alt="image" src="https://github.com/user-attachments/assets/32f2a9ff-6730-47e3-bfaa-f55c2ab6b774" />
 <img width="1093" height="871" alt="image" src="https://github.com/user-attachments/assets/aa60f592-d23f-478c-9d0d-5e7476d01717" />
 <img width="1080" height="858" alt="image" src="https://github.com/user-attachments/assets/4d59efbf-4fe5-4924-91d0-9868f5204b13" />
 <img width="1089" height="897" alt="image" src="https://github.com/user-attachments/assets/735050a7-378d-42c2-9e7d-a50023fa0ed0" />
+
+---
+## Publicación del proyecto
+
+Como desafio adicional me piden que publique mi proyecto utilizando Github Pages por lo que puedes probar el funcionamiento del proyecto ingresando a: https://AlexTalex06.github.io/Challenge_AmigoSecreto/
 
 ---
 
